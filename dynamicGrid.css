@@ -66,17 +66,7 @@ body{
     font-size: 20px;
 }
 
-@media (min-width: 150px) and (max-width: 650px){
-    .containerClothing{
-        display: block;
-    }
-}
 
-@media (min-width: 150px) and (max-width: 650px){
-    .containerAccessory{
-        display: block;
-    }
-}
 
 
 
